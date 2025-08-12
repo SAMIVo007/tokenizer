@@ -30,3 +30,5 @@ Vocab after training: { 'SPACE': 0, 'hello': 1, 'world,': 2, 'my': 3, 'name': 4,
 
 Encoded: [8, 1, 0, 3, 0, 9, 10] 
 Decoded: hello my UNK
+
+![image](<CleanShot 2025-08-12 at 9 .00.46@2x.png>)
